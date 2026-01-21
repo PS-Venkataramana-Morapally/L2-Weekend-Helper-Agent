@@ -9,14 +9,13 @@ Built with:
 ## 🛠️ Requirements
 ## Prerequisites
 - Python 3.10+
-- 
  ## Installation
 1. Clone the repository:
 git clone https://github.com/PS-Venkataramana-Morapally/L2-Weekend-Helper-Agent.git
 ## Create and activate a virtual environment
-python -m venv venv
+1.python -m venv venv
 ## Activate the virtual environment
-venv\Scripts\activate
+2.venv\Scripts\activate
 
 # 2) Install libraries
 pip install "mcp>=1.2" requests ollama
